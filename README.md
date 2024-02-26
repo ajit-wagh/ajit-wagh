@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring-Boot, Microservices, Angular, Kafka, Jenkins, Docker, kubernetes, AWS etc.**
 
-- 💬 Ask me about **Java, Spring-Boot,Angular, SQL, NoSQL**
+- 💬 Ask me about **Java, Spring-Boot, Angular, SQL, NoSQL.**
 
 - 📫 How to reach me **waghas0404@gmail.com**
 
